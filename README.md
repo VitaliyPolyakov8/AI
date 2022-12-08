@@ -1,2 +1,2 @@
 # AI
-y AI for Unity games
+My AI for Unity games
